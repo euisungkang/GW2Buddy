@@ -2,8 +2,8 @@
     "prefix": "!",
     "DISCORD_TOKEN": "Nzg4OTU1NDU0NzIxMzU5ODcz.X9rCBg.hnEEk1L4fu1KjvShQdCz-BsKonQ",
     "EVTC_WATCH_DIR": "./arcdps-logs",
-    "DISCORD_CHANNEL_ID": "788957072531783701",
-    "PARSER_EXE": "C:/Users/euisu/Desktop/GW2Buddy/libs/GW2EI/GuildWars2EliteInsights.exe",
-    "PARSER_CONF": "C:/Users/euisu/Desktop/GW2Buddy/libs/GW2EI/Settings/custom.conf",
+    "DISCORD_CHANNEL_ID": "Look At Readme",
+    "PARSER_EXE": "Look At Readme",
+    "PARSER_CONF": "Look At Readme",
     "LOG_SAVE_PATH": "./arcdps-logs"
 }
