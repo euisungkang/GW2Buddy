@@ -1,0 +1,13 @@
+Account               Characters         Fights  DPS  Damage  Cleanses  Strips  Stab  Dodges  Dist   Downs  Deaths  Time
+giant.7208            K O M D O L E      3       847  270911  40        90      2.82  35      752    1      0       5m 20s
+Swiftplus.5396        Lord Swiftler      3       605  164651  15        0       0.70  10      4101   2      2       3m 40s
+euisungkang.8540      Baegmon            3       443  140395  30        6       0.59  26      867    2      2       5m 17s
+Willytheowl.1538      Bubo Bengalensis   3       389  124533  28        55      1.89  15      2183   2      0       5m 20s
+GTS.9467              Great Teacher Soo  3       305  95844   15        0       1.65  19      2444   1      1       5m 13s
+kirinkage.8097        Shin Kirinkage     3       248  73131   16        6       0.35  9       4219   2      1       3m 57s
+choohgsss.2571        Ppt Bot            3       181  57444   126       1       2.17  43      1577   1      1       4m 56s
+redping.2083          Thanos Push        3       151  48225   122       59      1.01  8       0      0      0       5m 20s
+AnotherMezalAlt.8341  Mezallt            3       119  37773   291       0       1.69  21      3134   1      1       4m 30s
+Monagu.4156           Mochi Mandu        3       119  37243   93        0       2.68  22      3016   1      1       4m 20s
+Ashenfrost.4501       Ashen Frost        2       111  29620   7         0       0.00  1       17923  1      1       3m 40s
+Dante.4950            Othell Wrath       2       81   18532   44        0       2.14  15      899    0      0       3m 49s
